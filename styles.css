@@ -1,0 +1,36 @@
+body {
+  background-color: #cdfffc;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 4px;
+  height: 0;
+  width: 5%;
+  /* 5% of the screen */
+}
+
+img {
+  height: 200px;
+}
+
+h3 {
+  color: #008891;
+}
+
+h3:hover {
+  color: #f56a79;
+}
+
+h1 {
+  color: #11698e;
+}
+
+p {
+  color: #db6400;
+}
+
+.circular {
+  border-radius: 100%;
+}
